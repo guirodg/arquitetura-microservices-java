@@ -1,0 +1,4 @@
+com/app/core/repository/CourseRepository.class
+com/app/core/model/AbstractEntity.class
+com/app/core/model/Course$CourseBuilder.class
+com/app/core/model/Course.class
